@@ -26,5 +26,6 @@ you can change the n and d values to get different patterns
 
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/b/b4/Rose-rhodonea-curve-7x9-chart-improved.svg)
 
+![](asset/Screenshot 2022-12-21 155622.png)
 # Try it Now
 https://abapro.github.io/Rose-Mathematics-Project/
