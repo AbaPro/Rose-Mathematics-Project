@@ -15,8 +15,7 @@ function draw() {
   n=nS.value();
   d=dS.value();
   k=n/d;
-  background(240);
-  textSize(15);
+  background(240);  textSize(15);
   strokeWeight(1);
   text('n Value : '+nS.value(),0,19);
   text('d Value : '+dS.value(),width-70,19);
